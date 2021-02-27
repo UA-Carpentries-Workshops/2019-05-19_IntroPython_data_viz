@@ -6,6 +6,7 @@ https://ua-carpentries-workshops.github.io/2019-02-23-Tucson/
 
 ## YouTube Channel
 Anaconda Installation Video: https://youtu.be/1uD0QKlqLi8
+
 Using the HPC Open OnDemand Jupyter Notebooks: 
 
 ## Installation
@@ -19,4 +20,5 @@ But your installation might be different than mine!
 
 ## UA HPC Information
 Researchers can get an account on the HPC following these directions: https://public.confluence.arizona.edu/display/UAHPC/Account+Creation
+
 Information for Using the Open OnDemand Jupyter Notebooks Interface is here: https://public.confluence.arizona.edu/display/UAHPC/Open+On+Demand 
