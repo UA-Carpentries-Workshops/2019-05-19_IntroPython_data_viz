@@ -7,7 +7,9 @@ https://ua-carpentries-workshops.github.io/2019-02-23-Tucson/
 ## YouTube Channel
 Anaconda Installation Video: https://youtu.be/1uD0QKlqLi8
 
-Using the HPC Open OnDemand Jupyter Notebooks: 
+Using the HPC Open OnDemand Jupyter Notebooks: https://youtu.be/QbcB6DPjVFo
+
+Main Talk: 
 
 ## Installation
 We'll be using Python 3, Jupyter (JUlia + PYThon +R = Jupyter) Notebooks, and Pandas to analyze the Titanic passenger log. The easiest way to install all of these on your local computer, that's your laptop or desktop, is using Anaconda: https://docs.anaconda.com/anaconda/install/
